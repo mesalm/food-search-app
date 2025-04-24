@@ -31,7 +31,7 @@ This is my second project in the journey of learning React. In this project, I'v
    ```bash
    git clone https://github.com/mesalm/food-search-app.git
 
-    Navigate to the project folder:
+
 
 cd food-search-app
 
