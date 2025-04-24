@@ -1,0 +1,37 @@
+.food-list-container {
+  display: flex;
+  justify-content: center;
+  gap: 25%;
+  padding: 20px;
+}
+
+.food-card {
+  background-color: #f9f9f9;
+  border: #333 solid 1px;
+  border-radius: 12px;
+  padding: 15px;
+  width: 250px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.food-card:hover {
+  transform: scale(1.05);
+}
+
+.food-title {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.food-img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.item {
+  color: red;
+  text-align: center;
+}
